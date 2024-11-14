@@ -1,0 +1,123 @@
+.illustrations-section_2 {
+    background-color: rgba(5, 40, 37, 1); /* Цвет фона секции */
+    padding: 50px 0;
+  }
+  .illustrations-section_2 h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  .illustrations-section_2 p {
+    color: #ffffff;
+    margin-top: 20px;
+    font-style: italic;
+  }
+  .author-info_2 {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    color: white;
+  }
+  .author-info_2 img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+}
+
+/* _________________________________________________________________________________________________________________________________ */
+
+.solution-container {
+    background-color: rgba(5, 40, 37, 1);
+    padding: 40px 0;
+}
+.solution-title {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.solution-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    height: 100%;
+    position: relative;
+}
+.solution-icon {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 20px;
+    height: 20px;
+}
+.solution-content h5 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 40px; /* Отступ для иконки */
+}
+.solution-content p {
+    font-size: 14px;
+    color: #555;
+}
+.solution-link {
+    color: #0D6EFD;
+    font-weight: bold;
+}
+.explore-link {
+    position: absolute;
+    bottom: 10px;
+}
+.customers-section {
+            padding: 40px 0;
+            text-align: center;
+}
+.customers-count {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.customers-description {
+    color: #555;
+}
+.logos-row img {
+    max-height: 40px; /* Установите нужную высоту для логотипов */
+    margin: 10px 20px;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+.logos-row img:hover {
+    opacity: 1;
+}
+/* _________________________________________________________________________________________________________________________________ */
+.team-section {
+    padding: 40px 0;
+}
+.team-card {
+    padding: 20px;
+    text-align: left;
+
+}
+.team-image {
+    background-color: #d9e1fc; /* Голубой цвет */
+    width: 100%;
+    height: 150px;
+    margin-bottom: 15px;
+}
+.team-name {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.team-position {
+    margin-bottom: 10px;
+    color: #555;
+}
+.social-icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.social-icons a {
+    color: #555;
+    font-size: 1.2rem;
+}

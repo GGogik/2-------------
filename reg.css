@@ -1,0 +1,17 @@
+.form-container {
+    max-width: 400px;
+    width: 100%;
+    padding: 2rem;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+.alert {
+    display: none;
+}
+.header-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}

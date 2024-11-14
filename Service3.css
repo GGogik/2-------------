@@ -1,0 +1,32 @@
+.contact-section {
+    background-color: #f0f4ff;
+    padding: 50px;
+    text-align: left;
+}
+.contact-btn {
+    background-color: #2d9cdb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+}
+.contact-btn:hover {
+    background-color: #1c82c1;
+}
+.office-img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.contact__form{
+margin-left: 30px;
+}
+.regBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+}

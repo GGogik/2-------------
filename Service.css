@@ -1,0 +1,107 @@
+.service__single{
+    padding: 0px 100px;
+    }
+    .illustrations-section {
+      background-color: #f0f4ff; /* Цвет фона секции */
+      padding: 50px 0;
+    }
+    .illustrations-section h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+      color: #2c2e35;
+    }
+    .illustrations-section p {
+      color: #5f6368;
+      margin-top: 20px;
+      font-style: italic;
+    }
+    .author-info {
+      display: flex;
+      align-items: center;
+      margin-top: 30px;
+    }
+    .author-info img {
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      margin-right: 15px;
+}
+    .cta-button {
+      background-color: #4b67fd;
+      color: white;
+      padding: 10px 30px;
+      font-weight: bold;
+      border-radius: 5px;
+      margin-top: 30px;
+      text-decoration: none;
+    }
+    .cta-button:hover {
+      background-color: #3d55d9;
+    }
+    .achievement-section {
+        background-color: #2f58d1; /* Цвет фона как на изображении */
+        color: white;
+        padding: 50px 0;
+        text-align: center;
+      }
+      .achievement-section h2 {
+        font-size: 2rem;
+        font-weight: bold;
+      }
+      .achievement-section p {
+        margin-top: 10px;
+        margin-bottom: 40px;
+        color: #d0d0d5;
+      }
+      .achievement-stats {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      .divider {
+        border-left: 1px solid #d0d0d5;
+        height: 60px;
+      }
+      .nav-link {
+        display: flex;
+        align-items: center;
+      }
+      .nav-link i {
+        margin-right: 8px;
+      }
+      .tab-content .tab-pane {
+        padding: 20px;
+      }
+      .leadership-section {
+        padding: 40px;
+      }
+      .card img {
+        background-color: #e0e7ff; /* Цвет серого квадрата */
+        border-radius: 8px;
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+      }
+      .arrows {
+        display: flex;
+        gap: 10px;
+      }
+      .arrow-btn {
+        background-color: #e0e7ff;
+        border: none;
+        border-radius: 50%;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+      }
+      .step-icon {
+        padding: 20px;
+        margin-bottom: 15px;
+      }
+      .step-text {
+        color: #4a4a4a;
+      }
+
+    
